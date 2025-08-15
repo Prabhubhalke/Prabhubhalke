@@ -1,8 +1,9 @@
 # Hi, I'm Prabhu Bhalke 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://linkedin.com/in/prabhu-bhalke)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&link=https://github.com/Prabhubhalke)](https://github.com/Prabhubhalke)
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=flat&link=mailto:prabhubhalke379@gmail.com)](mailto:prabhubhalke379@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-green?style=flat&logo=firefox-browser)](https://prabhu07.netlify.app/)
 
 ---
 
@@ -67,6 +68,7 @@ I'm an aspiring Computer Science student from Bangalore, India, passionate about
 - 📧 Email: [prabhubhalke379@gmail.com](mailto:prabhubhalke379@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
 - 🖥️ [GitHub](https://github.com/Prabhubhalke)
+- 🌐 [Portfolio](https://prabhu07.netlify.app/)
 
 ---
 
