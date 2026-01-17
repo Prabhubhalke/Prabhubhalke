@@ -1,75 +1,89 @@
-# Hi, I'm Prabhu Bhalke 👋
+# 👋 Hi, I'm Prabhu Bhalke  
+🎓 Computer Science Undergraduate | 💻 Aspiring Software Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&link=https://github.com/Prabhubhalke)](https://github.com/Prabhubhalke)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=flat&link=mailto:prabhubhalke379@gmail.com)](mailto:prabhubhalke379@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-green?style=flat&logo=firefox-browser)](https://prabhu07.netlify.app/)
+📍 Bangalore, India  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/Prabhubhalke)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat)](mailto:prabhubhalke379@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=firefox-browser&style=flat)](https://prabhu07.netlify.app/)
 
 ---
 
-## 👨‍💻 About Me
-
-I'm an aspiring Computer Science student from Bangalore, India, passionate about software development and problem-solving. I enjoy building real-world projects and continuously expanding my skill set. I'm eager to learn and contribute as a junior software developer.
+## 🚀 About Me
+💡 Computer Science student passionate about building reliable, real-world software  
+🧠 Strong interest in web development, backend systems, and problem-solving  
+🎯 Actively seeking **Internship / Junior Software Developer** opportunities  
 
 ---
 
 ## 🎓 Education
+**B.N.M. Institute of Technology, Bangalore**  
+B.E. in Computer Science (2022–2026) — **CGPA: 7.24**
 
-- **B.N.M. Institute of Technology, Bangalore** (2022–2026)  
-  Bachelor of Engineering in Computer Science (CGPA: 7.24)
-- **Allama Iqbal Independent PU College, Bidar** (2021)  
-  Pre-University Course (Percentage: 100%)
-- **BTVP High School, Hallikhed (B), Bidar** (2019)  
-  SSLC (Percentage: 96.16%)
+**Allama Iqbal Independent PU College, Bidar**  
+Pre-University Course (2021) — **100%**
 
----
-
-## 🛠️ Skills
-
-- **Programming Languages:** Java, HTML, CSS, JavaScript, PHP
-- **Database:** MySQL
-- **Developer Tools:** Eclipse IDE, Visual Studio, Git, XAMPP, Jupyter, Google Colab
-- **Soft Skills:** Problem-Solving, Team Collaboration, Time Management, Effective Communication
+**BTVP High School, Bidar**  
+SSLC (2019) — **96.16%**
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### Hospital Management System  
-*HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, phpMyAdmin, XAMPP, Git*  
-- Designed and developed a dynamic system for managing patients, doctors, and appointments.
-- Improved hospital record management and appointment scheduling efficiency by 20%.
+### 💻 Languages & Web
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 
-### ATM Simulation System  
-*Java, Eclipse IDE, Git*  
-- Built a secure Java application simulating ATM functions (login, balance inquiry, withdrawals, deposits).
-- Implemented OOP principles to improve user experience by 15%.
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)
 
----
-
-## 📜 Certifications
-
-- Object-Oriented Programming with Java Applications
-
----
-
-## 📚 Relevant Coursework
-
-- Data Structures and Algorithms
-- Database Management Systems
-- Operating Systems
-- Web Development
-- Software Engineering
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-purple?logo=eclipse)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange)
 
 ---
 
-## 📫 Get in Touch
+## 📌 Projects
 
-- 📧 Email: [prabhubhalke379@gmail.com](mailto:prabhubhalke379@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
-- 🖥️ [GitHub](https://github.com/Prabhubhalke)
-- 🌐 [Portfolio](https://prabhu07.netlify.app/)
+### 🏥 Hospital Management System
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, XAMPP, Git  
+
+**Description:**  
+A full-stack web application designed to digitize hospital operations by managing patient records, doctor profiles, and appointment scheduling through a centralized system.
+
+**Key Features & Contributions:**
+- Designed responsive user interfaces using **HTML, CSS, and Bootstrap**
+- Implemented client-side validation and dynamic behavior using **JavaScript**
+- Developed backend logic with **PHP** for authentication and data handling
+- Designed relational database schemas using **MySQL**
+- Implemented full **CRUD operations** for patients, doctors, and appointments
+- Managed database operations using **phpMyAdmin**
+- Used **Git & GitHub** for version control and project tracking
+
+**Impact:**
+- Reduced manual record-keeping by digitizing hospital workflows  
+- Improved appointment scheduling and data retrieval efficiency  
+- Enhanced data consistency and accessibility  
+
+**Planned Enhancements:**
+- Role-based access control (Admin / Doctor / Staff)
+- Email or SMS appointment notifications
+- Improved security with password hashing and session handling
 
 ---
 
-*Let's build something amazing together!*
+## 📫 Contact
+📧 **Email:** prabhubhalke379@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/prabhu-bhalke-1a258625a/  
+🌐 **Portfolio:** https://prabhu07.netlify.app/
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
