@@ -19,7 +19,7 @@
 
 ## 🎓 Education
 **B.N.M. Institute of Technology, Bangalore**  
-B.E. in Computer Science (2022–2026) — **CGPA: 7.24**
+B.E. in Computer Science (2022–2026) — **CGPA: 7.34**
 
 **Allama Iqbal Independent PU College, Bidar**  
 Pre-University Course (2021) — **100%**
