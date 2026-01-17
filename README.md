@@ -39,21 +39,40 @@
 
 ---
 
-## 📌 Project
+## 📌 Projects
 
-### 🏥 Hospital Management System
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL  
+Below are the projects from my GitHub profile, with a short note for each. Edit any description as you prefer.
 
-**Overview:**  
-A full-stack web application developed to manage patient records, doctor information, and appointment scheduling through a centralized system.
+- [Deep-Learning-Based-Video-Anomaly-Detection-System](https://github.com/Prabhubhalke/Deep-Learning-Based-Video-Anomaly-Detection-System) — Python  
+  Video anomaly detection system using deep learning models to identify unusual events in surveillance footage.
 
-**Key Contributions:**
-- Built responsive UI using HTML, CSS, and Bootstrap  
-- Implemented backend logic and authentication using PHP  
-- Designed MySQL database schema and CRUD operations  
-- Improved efficiency in record handling and appointment management  
+- [Java-Programs](https://github.com/Prabhubhalke/Java-Programs) — Java  
+  Collection of Java programs and exercises covering core concepts and common algorithms.
+
+- [anamolyy](https://github.com/Prabhubhalke/anamolyy) — Python  
+  Experimental repository focused on anomaly detection research and prototyping.
+
+- [Anomaly-Detection-System](https://github.com/Prabhubhalke/Anomaly-Detection-System) — Python  
+  Implementation of anomaly detection techniques (classical ML and deep learning) for datasets and time series.
+
+- [React-Login-Page](https://github.com/Prabhubhalke/React-Login-Page) — CSS / React  
+  Responsive login page UI built with React and modern CSS/styling techniques.
+
+- [prabhu-portfolio](https://github.com/Prabhubhalke/prabhu-portfolio) — TypeScript  
+  My personal portfolio website showcasing projects and contact information (deployed).
+
+- [Hospital-Management-System](https://github.com/Prabhubhalke/Hospital-Management-System) — PHP, MySQL  
+  Full-stack web app to manage patients, doctors, appointments, and records. Built with HTML/CSS/Bootstrap, PHP backend and MySQL.
+
+- [ATM-Simulation-System-Using-Java](https://github.com/Prabhubhalke/ATM-Simulation-System-Using-Java) — Java  
+  ATM simulation demonstrating account operations, PIN verification, and basic transaction flows.
+
+- [Attendence-Management-System](https://github.com/Prabhubhalke/Attendence-Management-System) — (language not listed)  
+  Attendance management system to record and track student attendance (basic CRUD and reports).
 
 ---
 
 ## 📫 Contact
 📧 **prabhubhalke379@gmail.com**
+
+---
