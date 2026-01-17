@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Prabhu Bhalke  
 🎓 Computer Science Undergraduate | 💻 Aspiring Software Developer  
-
 📍 Bangalore, India  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
@@ -10,22 +9,12 @@
 
 ---
 
-## 🚀 About Me
-💡 Computer Science student passionate about building reliable, real-world software  
-🧠 Strong interest in web development, backend systems, and problem-solving  
-🎯 Actively seeking **Internship / Junior Software Developer** opportunities  
-
----
-
-## 🎓 Education
-**B.N.M. Institute of Technology, Bangalore**  
-B.E. in Computer Science (2022–2026) — **CGPA: 7.34**
-
-**Allama Iqbal Independent PU College, Bidar**  
-Pre-University Course (2021) — **100%**
-
-**BTVP High School, Bidar**  
-SSLC (2019) — **96.16%**
+## 🚀 About me
+• Computer Science student focused on building reliable, real-world software  
+• Strong interest in web development and backend systems  
+• Hands-on experience with Java, PHP, and MySQL  
+• Comfortable working with Git-based workflows and collaborative projects  
+• Actively seeking **Internship / Junior Software Developer** roles  
 
 ---
 
@@ -50,40 +39,21 @@ SSLC (2019) — **96.16%**
 
 ---
 
-## 📌 Projects
+## 📌 Project
 
 ### 🏥 Hospital Management System
-**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, XAMPP, Git  
+**Tech Stack:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL  
 
-**Description:**  
-A full-stack web application designed to digitize hospital operations by managing patient records, doctor profiles, and appointment scheduling through a centralized system.
+**Overview:**  
+A full-stack web application developed to manage patient records, doctor information, and appointment scheduling through a centralized system.
 
-**Key Features & Contributions:**
-- Designed responsive user interfaces using **HTML, CSS, and Bootstrap**
-- Implemented client-side validation and dynamic behavior using **JavaScript**
-- Developed backend logic with **PHP** for authentication and data handling
-- Designed relational database schemas using **MySQL**
-- Implemented full **CRUD operations** for patients, doctors, and appointments
-- Managed database operations using **phpMyAdmin**
-- Used **Git & GitHub** for version control and project tracking
-
-**Impact:**
-- Reduced manual record-keeping by digitizing hospital workflows  
-- Improved appointment scheduling and data retrieval efficiency  
-- Enhanced data consistency and accessibility  
-
-**Planned Enhancements:**
-- Role-based access control (Admin / Doctor / Staff)
-- Email or SMS appointment notifications
-- Improved security with password hashing and session handling
+**Key Contributions:**
+- Built responsive UI using HTML, CSS, and Bootstrap  
+- Implemented backend logic and authentication using PHP  
+- Designed MySQL database schema and CRUD operations  
+- Improved efficiency in record handling and appointment management  
 
 ---
 
 ## 📫 Contact
-📧 **Email:** prabhubhalke379@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/prabhu-bhalke-1a258625a/  
-🌐 **Portfolio:** https://prabhu07.netlify.app/
-
----
-
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+📧 **prabhubhalke379@gmail.com**
