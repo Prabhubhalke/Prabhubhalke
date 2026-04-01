@@ -14,7 +14,7 @@
 • Strong interest in web development and backend systems  
 • Hands-on experience with Java, PHP, and MySQL  
 • Comfortable working with Git-based workflows and collaborative projects  
-• Actively seeking **Internship / Junior Software Developer** roles  
+
 
 ---
 
