@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prabhu Bhalke  
-🎓 Computer Science Undergraduate | 💻 Aspiring Software Developer  
+🎓 Computer Science Graduate | 💻 Aspiring Software Developer  
 📍 Bangalore, India  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/prabhu-bhalke-1a258625a/)
